@@ -1,0 +1,9 @@
+*~
+*.log
+*.egg-info/
+*.db
+*.pyc
+keys.txt
+.DS_Store
+__pycache__/
+env/
